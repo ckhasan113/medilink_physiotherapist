@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Physiotherapist</string>
+    <string name="required_field">This field is required</string>
+
+    <string-array name="package_array">
+        <item>Select</item>
+        <item>Hourly</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+    </string-array>
+</resources>
